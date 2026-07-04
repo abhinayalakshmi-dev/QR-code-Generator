@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🔳 QRCraft
+# 🔳 QR CODE GENERATOR
 
 **Generate, customize, and manage professional-grade QR codes — instantly.**
 
